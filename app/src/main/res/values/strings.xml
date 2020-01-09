@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger2App</string>
+    <string name="results_in">Results in %d</string>
+</resources>
